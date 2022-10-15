@@ -1,0 +1,5 @@
+open magicdos.96.lt
+user u223508090 5LmWc2dQRDidsyON
+cd store_cigam
+dir
+quit 

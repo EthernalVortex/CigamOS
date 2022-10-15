@@ -1,0 +1,1 @@
+for /f "delims=" %%a in ('powershell %*') do echo %%a

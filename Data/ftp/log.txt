@@ -1,0 +1,24 @@
+ftp> Connecté à magicdos.96.lt.
+open magicdos.96.lt
+220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------
+220-You are user number 22 of 500 allowed.
+220-Local time is now 16:42. Server port: 21.
+220-This is a private system - No anonymous login
+220 You will be disconnected after 3 minutes of inactivity.
+ftp> user u223508090 5LmWc2dQRDidsyON
+331 User u223508090 OK. Password required
+230 OK. Current directory is /public_html
+ftp> cd store_cigam
+250 OK. Current directory is /public_html/store_cigam
+ftp> dir
+200 PORT command successful
+150 Connecting to port 54237
+drwxr-xr-x    2 223508090  u223508090       4096 Dec 31 14:56 .
+drwxr-xr-x    5 223508090  u223508090       4096 Dec 31 14:55 ..
+-rw-r--r--    1 223508090  u223508090         16 Dec 31 14:56 App1.ini
+226-Options: -a -l 
+226 3 matches total
+ftp : 203 octets reçus en  secondes à  Ko/s.
+ftp> 0,0212,69quit 
+221-Goodbye. You uploaded 0 and downloaded 0 kbytes.
+221 Logout.

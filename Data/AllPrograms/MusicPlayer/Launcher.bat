@@ -1,0 +1,1 @@
+start/min sndrec32 /play /close %systemroot%\media\ding.wav
