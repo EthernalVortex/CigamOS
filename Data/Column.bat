@@ -1,0 +1,1 @@
+for /l %%$ in (%2,1,%3) do batbox /c 0x%4 /g %1 %%$ /a 179

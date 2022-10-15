@@ -1,0 +1,15 @@
+ Le volume dans le lecteur D s'appelle VIETCONG2
+ Le num‚ro de s‚rie du volume est DA10-59C8
+
+ R‚pertoire de D:\
+
+01/10/2005  13:23                43 Autorun.inf
+01/10/2005  13:45       624ÿ264ÿ707 disk01.cbf
+01/10/2005  13:46       658ÿ716ÿ931 disk02.cbf
+01/10/2005  14:11       658ÿ849ÿ134 disk03.cbf
+01/10/2005  14:13       663ÿ978ÿ830 disk04.cbf
+02/10/2005  21:59       455ÿ323ÿ754 disk05.cbf
+02/10/2005  15:17           272ÿ623 setup.cbf
+02/10/2005  15:17         3ÿ809ÿ280 setup.exe
+               8 fichier(s)    3ÿ065ÿ215ÿ302 octets
+               0 R‚p(s)               0 octets libres

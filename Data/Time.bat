@@ -1,0 +1,1 @@
+batbox /g 70 20 /c 0x%1 /d "%date%"

@@ -1,0 +1,9 @@
+set Vol=32767
+set CursposAudio=5
+set CursPos=5
+set Delay=50
+set Pcolor=0
+set MenuMusic=ENABLED
+set SoundEffect=ENABLED
+set GameMusic=ENABLED
+set FullScreen=DISABLED
